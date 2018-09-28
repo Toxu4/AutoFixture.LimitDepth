@@ -5,7 +5,7 @@ $srcPath = Join-Path $slnPath "src"
 
 # List of projects
 $projects = (
-    "AutoFixture.LimitDepth.Lib"
+    "Toxu4.AutoFixture.LimitDepth.Lib"
 )
 
 # Rebuild solution

@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoFixture.LimitDepth.Lib", "src\AutoFixture.LimitDepth.Lib\AutoFixture.LimitDepth.Lib.csproj", "{FD099BCB-682A-4709-9D9F-557F39B653E4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Toxu4.AutoFixture.LimitDepth.Lib", "src\Toxu4.AutoFixture.LimitDepth.Lib\Toxu4.AutoFixture.LimitDepth.Lib.csproj", "{FD099BCB-682A-4709-9D9F-557F39B653E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

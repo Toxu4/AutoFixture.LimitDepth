@@ -4,7 +4,7 @@ using System.Reflection;
 using System.Threading;
 using AutoFixture.Kernel;
 
-namespace AutoFixture.LimitDepth.Lib
+namespace Toxu4.AutoFixture.LimitDepth.Lib
 {
     internal class DepthGuard : ISpecimenBuilderNode
     {
