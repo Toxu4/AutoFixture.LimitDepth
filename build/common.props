@@ -6,7 +6,7 @@
     <RepositoryType>git</RepositoryType>
     <RepositoryUrl>https://github.com/Toxu4/AutoFuxture.LimitDepth</RepositoryUrl>
     <Authors>Anton Krasilshchikov, Rambler Digital Solutions</Authors>    
-    <Product>AutoFuxture.LimitDepth</Product>
+    <Product>Toxu4.AutoFuxture.LimitDepth</Product>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <RepositoryType>git</RepositoryType>
     <NoWarn>1701;1702;1705;1591</NoWarn>
